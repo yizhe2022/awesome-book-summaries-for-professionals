@@ -7,12 +7,15 @@ A curated collection of deep-dive book summaries to help you learn faster and gr
 * [Personal Productivity & Time Management](https://nookix.com/category/productivity)
 * [Psychology & Self-Improvement](https://nookix.com/category/psychology)
 
-## 📖 Featured Summaries (Weekly Update)
-| Book Title | Key Takeaway | Read/Listen Link |
-| :--- | :--- | :--- |
-| **Atomic Habits** | Small changes, remarkable results. | [Read on Nookix](https://nookix.com/book/atomic-habits) |
-| **Deep Work** | Rules for focused success in a distracted world. | [Read on Nookix](https://nookix.com/book/deep-work) |
-| **The Psychology of Money** | Timeless lessons on wealth and greed. | [Read on Nookix](https://nookix.com/book/the-psychology-of-money) |
+---
+
+## 📚 Featured Summaries (Weekly Update)
+
+| Book Title               | Key Takeaway                                  | Read/Listen Link                          |
+|:------------------------ |:-------------------------------------------- |:---------------------------------------- |
+| **Atomic Habits**         | Small changes, remarkable results.            | [Read on Nookix](https://nookix.com/book/atomic-habits) |
+| **Deep Work**             | Rules for focused success in a distracted world. | [Read on Nookix](https://nookix.com/book/deep-work) |
+| **The Psychology of Money** | Timeless lessons on wealth and greed.        | [Read on Nookix](https://nookix.com/book/the-psychology-of-money) |
 
 ---
 ## 🎧 Why Nookix?
