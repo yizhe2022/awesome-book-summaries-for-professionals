@@ -3,9 +3,9 @@
 A curated collection of deep-dive book summaries to help you learn faster and grow smarter. High-quality audio and text summaries for world-class non-fiction books.
 
 ## 🚀 Top Categories
-* [Business & Leadership Summaries](https://nookix.com/category/business)
-* [Personal Productivity & Time Management](https://nookix.com/category/productivity)
-* [Psychology & Self-Improvement](https://nookix.com/category/psychology)
+* [Business & Leadership Summaries](https://nookix.com/collections/startup-books-for-starting-a-business)
+* [Personal Productivity & Time Management](https://nookix.com/collections/self-help-books-for-men)
+* [Psychology & Self-Improvement](https://nookix.com/collections/self-help-books-for-women)
 
 ---
 
@@ -21,7 +21,7 @@ A curated collection of deep-dive book summaries to help you learn faster and gr
 ## 🎧 Why Nookix?
 [Nookix.com](https://nookix.com) provides 15-minute audio and text summaries designed for busy learners. 
 
-- **Save Time:** Get the core ideas of a 300-page book in 15 mins.
+- **Save Time:** Get the core ideas of a 300-page book in 60 mins.
 - **Multimodal Learning:** Read or Listen anytime, anywhere.
 - **Expert Curated:** Only the best non-fiction books.
 
